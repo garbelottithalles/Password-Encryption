@@ -1,0 +1,9 @@
+
+header {
+    width: 100%;
+    border-bottom: solid black 2px;
+}
+header h1, p {
+    color: rgba(69, 29, 116, 0.062);
+
+}
